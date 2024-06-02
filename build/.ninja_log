@@ -1,0 +1,7 @@
+# ninja log v5
+203	234	1717333293109476707	CPPAlgorithms	b0645f40cc25f76a
+9	232	1717336538540906911	CMakeFiles/demo.dir/main.cpp.o	467f4ac6dfd13ec3
+8	247	1717336548687827976	CMakeFiles/ParsingArithmeticExpressionsIntoAST.dir/ParsingArithmeticExpressionsIntoAST.cpp.o	1dccfbda799f95cb
+247	278	1717336548721280534	ParsingArithmeticExpressionsIntoAST	9e28b90fc69e7a7a
+1	201	1717333293074843159	CMakeFiles/CPPAlgorithms.dir/main.cpp.o	78496cae77af163e
+8	42	1717336548485867684	demo	e766cf80e9b56530
