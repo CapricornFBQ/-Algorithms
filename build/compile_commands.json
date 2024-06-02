@@ -10,5 +10,11 @@
   "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/ParsingArithmeticExpressionsIntoAST.dir/ParsingArithmeticExpressionsIntoAST.cpp.o -c /Users/fanbingqi/Downloads/1_Project/11_Algorithm/0_Arithmetic/ParsingArithmeticExpressionsIntoAST.cpp",
   "file": "/Users/fanbingqi/Downloads/1_Project/11_Algorithm/0_Arithmetic/ParsingArithmeticExpressionsIntoAST.cpp",
   "output": "CMakeFiles/ParsingArithmeticExpressionsIntoAST.dir/ParsingArithmeticExpressionsIntoAST.cpp.o"
+},
+{
+  "directory": "/Users/fanbingqi/Downloads/1_Project/11_Algorithm/0_Arithmetic/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/ParsingArithmeticExpressionsIntoAST1.dir/ParsingArithmeticExpressionsIntoAST1.cpp.o -c /Users/fanbingqi/Downloads/1_Project/11_Algorithm/0_Arithmetic/ParsingArithmeticExpressionsIntoAST1.cpp",
+  "file": "/Users/fanbingqi/Downloads/1_Project/11_Algorithm/0_Arithmetic/ParsingArithmeticExpressionsIntoAST1.cpp",
+  "output": "CMakeFiles/ParsingArithmeticExpressionsIntoAST1.dir/ParsingArithmeticExpressionsIntoAST1.cpp.o"
 }
 ]

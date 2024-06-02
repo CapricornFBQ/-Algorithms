@@ -102,6 +102,37 @@ build ParsingArithmeticExpressionsIntoAST: CXX_EXECUTABLE_LINKER__ParsingArithme
   TARGET_FILE = ParsingArithmeticExpressionsIntoAST
   TARGET_PDB = ParsingArithmeticExpressionsIntoAST.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target ParsingArithmeticExpressionsIntoAST1
+
+
+#############################################
+# Order-only phony target for ParsingArithmeticExpressionsIntoAST1
+
+build cmake_object_order_depends_target_ParsingArithmeticExpressionsIntoAST1: phony || .
+
+build CMakeFiles/ParsingArithmeticExpressionsIntoAST1.dir/ParsingArithmeticExpressionsIntoAST1.cpp.o: CXX_COMPILER__ParsingArithmeticExpressionsIntoAST1_unscanned_Debug /Users/fanbingqi/Downloads/1_Project/11_Algorithm/0_Arithmetic/ParsingArithmeticExpressionsIntoAST1.cpp || cmake_object_order_depends_target_ParsingArithmeticExpressionsIntoAST1
+  DEP_FILE = CMakeFiles/ParsingArithmeticExpressionsIntoAST1.dir/ParsingArithmeticExpressionsIntoAST1.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk
+  OBJECT_DIR = CMakeFiles/ParsingArithmeticExpressionsIntoAST1.dir
+  OBJECT_FILE_DIR = CMakeFiles/ParsingArithmeticExpressionsIntoAST1.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ParsingArithmeticExpressionsIntoAST1
+
+
+#############################################
+# Link the executable ParsingArithmeticExpressionsIntoAST1
+
+build ParsingArithmeticExpressionsIntoAST1: CXX_EXECUTABLE_LINKER__ParsingArithmeticExpressionsIntoAST1_Debug CMakeFiles/ParsingArithmeticExpressionsIntoAST1.dir/ParsingArithmeticExpressionsIntoAST1.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk
+  OBJECT_DIR = CMakeFiles/ParsingArithmeticExpressionsIntoAST1.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = ParsingArithmeticExpressionsIntoAST1
+  TARGET_PDB = ParsingArithmeticExpressionsIntoAST1.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -137,7 +168,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/fanbingqi/Downloads/1_Project/11_Algorithm/0_Arithmetic/build
 
-build all: phony demo ParsingArithmeticExpressionsIntoAST
+build all: phony demo ParsingArithmeticExpressionsIntoAST ParsingArithmeticExpressionsIntoAST1
 
 # =============================================================================
 # Built-in targets

@@ -16,7 +16,8 @@
 					"targetIndexes" : 
 					[
 						0,
-						1
+						1,
+						2
 					]
 				}
 			],
@@ -32,7 +33,8 @@
 					"targetIndexes" : 
 					[
 						0,
-						1
+						1,
+						2
 					]
 				}
 			],
@@ -43,6 +45,13 @@
 					"id" : "ParsingArithmeticExpressionsIntoAST::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-ParsingArithmeticExpressionsIntoAST-Debug-eeccfa7a80b8bcdc4e2f.json",
 					"name" : "ParsingArithmeticExpressionsIntoAST",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ParsingArithmeticExpressionsIntoAST1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ParsingArithmeticExpressionsIntoAST1-Debug-6d383b152b8b6abb0a84.json",
+					"name" : "ParsingArithmeticExpressionsIntoAST1",
 					"projectIndex" : 0
 				},
 				{
